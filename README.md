@@ -113,7 +113,7 @@ delay(500);
 [My image](username.github.com/repository/img/image.jpg)
 
 
-![WhatsApp Image 2024-02-19 at 14 09 01 - Copy](https://github.com/Deeksha78/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/128116204/dd24962b-d4ba-4158-a215-9a843c28b3a2)
+![WhatsApp Image 2024-02-19 at 13 48 48 (2)](https://github.com/Deeksha78/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/128116204/e2c39c85-d26b-4dda-9de1-bf9f7f6d77e5)
 
 
 
