@@ -36,6 +36,10 @@ Clock Speed	16 MHz
 ![image](https://user-images.githubusercontent.com/36288975/163530394-115baee4-7ed1-49fe-9cce-d7b625e11e85.png)
 
 FIGURE-01
+
+
+
+
 ![image](https://user-images.githubusercontent.com/36288975/163530431-4d390e98-0942-42d8-95b8-f57d348e6ad8.png)
 
 FIGURE-02
@@ -109,7 +113,8 @@ delay(500);
 [My image](username.github.com/repository/img/image.jpg)
 
 
-![WhatsApp Image 2024-02-19 at 13 48 48](https://github.com/Deeksha78/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/128116204/9af9c180-6f21-4f1c-a15d-54655a155ccb)
+![WhatsApp Image 2024-02-19 at 14 09 01 - Copy](https://github.com/Deeksha78/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/128116204/dd24962b-d4ba-4158-a215-9a843c28b3a2)
+
 
 
 ![WhatsApp Image 2024-02-19 at 13 48 48](https://github.com/Deeksha78/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/128116204/ed8a0a8e-2cfb-410f-b100-d3239c44a570)
