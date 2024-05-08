@@ -110,7 +110,6 @@ delay(500);
 
 ## OUTPUT OF SIMULATION :
 
-[My image](username.github.com/repository/img/image.jpg)
 
 
 ![WhatsApp Image 2024-02-19 at 13 48 48 (2)](https://github.com/Deeksha78/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/128116204/e2c39c85-d26b-4dda-9de1-bf9f7f6d77e5)
@@ -118,3 +117,7 @@ delay(500);
 
 
 ![WhatsApp Image 2024-02-19 at 13 48 48](https://github.com/Deeksha78/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/128116204/ed8a0a8e-2cfb-410f-b100-d3239c44a570)
+
+
+RESULT:
+Thus the digital interfacing of circuit using Arduino circuit is completed successfully by tinkercard
