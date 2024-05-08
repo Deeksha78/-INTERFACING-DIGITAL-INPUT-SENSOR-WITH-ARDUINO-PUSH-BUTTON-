@@ -1,5 +1,5 @@
 ## INTERFACING DIGITAL INPUT SENSOR WITH ARDUINO PUSH BUTTON
-## DATE : 19-02-2024
+## DATE : 26-02-2024
 ## NAME : DEEKSHA P																			             
 ## ROLLNUMBER : 212222040031
 ## DEPARTMENT : Computer Science and Engineering
